@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My Website!</h1>
+    <img src="mypic.jpg" width="200px" alt="Kim minsung">
+    <h3>Name: Kim minsung</h3>
+    <h5>My major: <b>Bachelor of IT.</b></h5>
+    <p>Hello! My name is Kim minsung, and English name is Leo Kim. I'm currently in 3rd 
+        semester of RMIT. <br>Moreover, my minor is Mobile and Web Development.
+        But, I'm thinking of chainging my minor to AI.
+    </p>
+    <hr>
+    <p>My Hobbies: I mainly like to exercise. So, I go to the gym every day except Sunday.</p>
+    <p>My passion: By taking this course, I will master web programming and earn money with it.</p>
+    <h2>The computer languages that I can do</h2>
+    <ul>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>Java</li>
+    </ul>
+    <h3>My social Network</h3>
+        <a href="https://www.facebook.com/profile.php?id=100067564262906" target="_blank"><img src="q.png" width="20px"></a>
+        <a href="https://www.instagram.com/at01_leo/" target="_blank"><img src="w.png" width="20px"></a>
+</body>
+</html>
